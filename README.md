@@ -156,7 +156,7 @@ dawai/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AbdullahAbuZaid04/dawai-gaza.git
+git clone https://github.com/abdullahmabuzaid/dawai-gaza.git
 cd dawai-gaza
 ```
 
